@@ -133,6 +133,4 @@ TradeConfig(
 )
 ```
 
-## License
 
-MIT License
